@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidDay1</string>
+    <string name="Name">Enter your name</string>
+    <string name="password">Enter password</string>
+    <string name="remember_me">remember me</string>
+</resources>
